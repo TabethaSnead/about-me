@@ -1,3 +1,5 @@
+![Wireframe of"about-me"] (./assets.wireframewireframe.png)
+
 ## The Golden Rule:
 
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
