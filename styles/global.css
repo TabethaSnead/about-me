@@ -33,3 +33,21 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.edgar {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 250px;
+}
+
+.list {
+    color: darkmagenta;
+}
+
+.edgarName {
+    font-size: 100px;
+    color: navy;
+    display: flex;
+    justify-content: center;
+}
